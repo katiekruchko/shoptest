@@ -1,0 +1,16 @@
+/*
+Theme Name: storefront-child
+Template: Storefront
+Description: Дочерняя тема для Storefront
+Author: Kate Kruchko
+Version: 1.0
+*/
+
+/* @import url("../storefront/style.css"); */
+.count-view {
+  padding: 5px 0 15px;
+  font-weight: bold;
+}
+.date-view {
+  font-weight: bold;
+}
